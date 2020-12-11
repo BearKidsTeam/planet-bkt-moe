@@ -8,6 +8,8 @@ tags: ["Godot"]
 
 游戏引擎有很多，适用于独立开发者进行 2d 游戏开发的也不少。[Godot Engine](https://godotengine.org/) 是一个关注已久的游戏引擎项目，有着非常宽松的授权许可（[MIT](https://github.com/godotengine/godot/blob/master/LICENSE.txt)）和看上去还不错的 2d 支持。一直以来想在有机会时做点东西出来，但又感觉真的想做时任何引擎都不熟悉也不是件好事，于是就打算试着使用 Godot 来开发一个简单的横板平台游戏原型来熟悉这个引擎。恰巧也有其它群友对 Godot 感兴趣，于是尽管我的了解程度还不多，也仍打算记录下一些研究过程和结果，以备后续自己查阅和它人参考。
 
+<!--more-->
+
 下述的内容此处也附带了[代码仓库链接](https://code.blumia.cn/blumia/godot-platformer-template)，这里建议自己拉去仓库并打开，把玩之后再按照你在 Godot 中所看到的项目结构和写法来对照下方的文章，于是我也可以省点截图（
 
 ### 算不上概述的引擎概述
